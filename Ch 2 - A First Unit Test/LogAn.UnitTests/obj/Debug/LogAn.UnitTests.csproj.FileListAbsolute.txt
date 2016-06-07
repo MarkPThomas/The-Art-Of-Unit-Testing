@@ -1,0 +1,10 @@
+C:\Users\Mark\Documents\GitHub\CSharp\The-Art-Of-Unit-Testing\Ch 2 - A First Unit Test\LogAn.UnitTests\bin\Debug\LogAn.UnitTests.dll
+C:\Users\Mark\Documents\GitHub\CSharp\The-Art-Of-Unit-Testing\Ch 2 - A First Unit Test\LogAn.UnitTests\bin\Debug\LogAn.UnitTests.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\The-Art-Of-Unit-Testing\Ch 2 - A First Unit Test\LogAn.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mark\Documents\GitHub\CSharp\The-Art-Of-Unit-Testing\Ch 2 - A First Unit Test\LogAn.UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Mark\Documents\GitHub\CSharp\The-Art-Of-Unit-Testing\Ch 2 - A First Unit Test\LogAn.UnitTests\obj\Debug\LogAn.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\The-Art-Of-Unit-Testing\Ch 2 - A First Unit Test\LogAn.UnitTests\obj\Debug\LogAn.UnitTests.dll
+C:\Users\Mark\Documents\GitHub\CSharp\The-Art-Of-Unit-Testing\Ch 2 - A First Unit Test\LogAn.UnitTests\obj\Debug\LogAn.UnitTests.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\The-Art-Of-Unit-Testing\Ch 2 - A First Unit Test\LogAn.UnitTests\bin\Debug\LogAn.exe
+C:\Users\Mark\Documents\GitHub\CSharp\The-Art-Of-Unit-Testing\Ch 2 - A First Unit Test\LogAn.UnitTests\bin\Debug\LogAn.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\The-Art-Of-Unit-Testing\Ch 2 - A First Unit Test\LogAn.UnitTests\bin\Debug\nunit.framework.xml
