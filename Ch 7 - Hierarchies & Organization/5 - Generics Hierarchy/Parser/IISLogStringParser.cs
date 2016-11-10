@@ -6,15 +6,15 @@ using System.Threading.Tasks;
 
 namespace Parser
 {
-    public class StandardStringParser : BaseStringParser
+    public class IISLogStringParser : BaseStringParser
     {
-        public StandardStringParser(string input) : base(input)
+        public IISLogStringParser(string input) : base(input)
         {
         }
 
         public override string GetTextVersionFromHeader()
         {
-            return StringToParse;
+            throw new NotImplementedException();
         }
 
         public override bool HasCorrectHeader()
